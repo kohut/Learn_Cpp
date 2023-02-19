@@ -9,6 +9,6 @@
 
 int main()
 {
-    std::cout << "Hello world!";
+    std::cout << "Hello world! It's me, Kohut\n";
     return 0;
 }
